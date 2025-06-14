@@ -1,0 +1,17 @@
+
+{
+  "name": "MCP Ollama Workspace",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "forwardPorts": [7860, 7861, 6274, 6277, 11434],
+  "postCreateCommand": "pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  }
+}
