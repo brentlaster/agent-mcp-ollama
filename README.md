@@ -1,4 +1,4 @@
-[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?template_repository=https://github.com/brentlaster/agent-mcp-ollama)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/brentlaster/agent-mcp-ollama?quickstart=1)
 
 # 🧠 Agent with MCP Tools and Ollama (Codespaces Ready)
 
